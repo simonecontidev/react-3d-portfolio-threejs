@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import { AnimatedTextLines } from "./AnimateTextLines";
+import { AnimatedTextLines } from "./AnimatedTextLines";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
