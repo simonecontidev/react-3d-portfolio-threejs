@@ -1,0 +1,8 @@
+.navbar {
+  position: absolute; /* oppure fixed se vuoi che resti mentre scrolli */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 50;
+  background: transparent; /* se vuoi vedere il 3D sotto */
+}

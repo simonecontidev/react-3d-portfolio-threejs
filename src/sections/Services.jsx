@@ -75,6 +75,7 @@ and subtle transitions that give life to your brand.`;
         </div>
       ))}
     </section>
+    
   );
 };
 

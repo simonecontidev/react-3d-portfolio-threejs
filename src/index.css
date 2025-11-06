@@ -1,7 +1,5 @@
 @import "tailwindcss";
 
-@import "tailwindcss";
-
 /* Amiamie Regular */
 @font-face {
   font-family: "Amiamie";
@@ -136,3 +134,10 @@ body {
   @apply text-[42px] sm:text-[52px] md:text-[62px] lg:text-[100px];
 }
 
+main {
+  padding-top: 80px;
+}
+
+main#home {
+  padding-top: 0 !important;
+}
