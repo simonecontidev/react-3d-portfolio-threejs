@@ -11,10 +11,7 @@
 
 ## 🌐 Live Demo & Preview
 
-🎯 **Live:** [https://threejs-portfolio.vercel.app](https://threejs-portfolio.vercel.app)  
-🖼️ **Preview:**
-
-![3D Portfolio Preview](public/preview.jpg)
+🎯 **Live:** [Live Demo](https://planet.simoneconti.work/)  
 
 ---
 
